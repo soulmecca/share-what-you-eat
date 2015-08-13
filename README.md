@@ -5,7 +5,7 @@
 >we can get some ideas what to eat, especially from your neighbor.
 
 # Front-end Wireframes
-![Wire Frame](pictures/wire.JPG)
+![Wire Frame](/pictures/wire.JPG)
 
 # Pseudocode
 
@@ -13,4 +13,4 @@
 
 # Database Design 
 (ERD/Data Model Diagrams)
-![ERD](pictures/erd.png)
+![ERD](/pictures/erd.png)
